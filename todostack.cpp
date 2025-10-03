@@ -62,7 +62,7 @@ int main()
     }
 
     // Final output
-    cout << "\nRemaining tasks in reverse order (LIFO):\n";
+    cout << "\nRemaining tasks in reverse order :\n";
     while (!st.empty())
     {
         cout << st.top() << endl;

@@ -35,29 +35,8 @@ Component	Details
 Language	C++
 Data Structure	Stack
 Compiler	g++, MinGW, Turbo C++ or any C++11+ compiler
-📂 Project Structure (Example)
-📁 ToDoList-Stack
-│── 📄 main.cpp
-└── 📄 README.md
-
-▶️ How to Run
-
-Clone the repository
-
-git clone https://github.com/your-username/todo-stack-cpp.git
-cd todo-stack-cpp
 
 
-Compile the program
-
-g++ main.cpp -o todo
-
-
-Run the executable
-
-./todo
-
-📌 Sample Output
 ====== Stack Based To-Do List ======
 1. Add Task (Push)
 2. View Tasks
